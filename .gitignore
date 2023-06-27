@@ -1,0 +1,14 @@
+wandb
+.DS_STORE
+data
+outs
+checkpoints
+**/__pycache__/**
+outs
+.vscode
+datasets/CodeXGLUE
+datasets/VulDeePecker
+datasets/VulnPatchPairs
+datasets/data.zip
+models/VulBERTa
+models/VulBERTa.zip

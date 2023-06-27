@@ -1,0 +1,15 @@
+CodeXGLUE & VulBERTa & 0.639 & -0.017 $\downarrow$ & -0.004 $\uparrow$ & -0.025 $\downarrow$ \\ 
+CodeXGLUE & CoTexT & 0.673 & -0.022 $\downarrow$ & -0.014 $\uparrow$ & -0.030 $\downarrow$ \\ 
+CodeXGLUE & PLBart & 0.633 & -0.021 $\downarrow$ & -0.007 $\uparrow$ & -0.026 $\downarrow$ \\ \hline
+ &  &  & \textbf{-0.020} $\downarrow$ & \textbf{-0.008} $\uparrow$ & \textbf{-0.027} $\downarrow$ \\ \hline
+VulDeePecker & VulBERTa & 0.875 & -0.067 $\downarrow$ & -0.011 $\uparrow$ & -0.057 $\downarrow$ \\ 
+VulDeePecker & CoTexT & 0.873 & -0.007 $\downarrow$ & -0.005 $\uparrow$ & -0.018 $\downarrow$ \\ 
+VulDeePecker & PLBart & 0.865 & -0.014 $\downarrow$ & -0.007 $\uparrow$ & -0.035 $\downarrow$ \\ \hline
+ &  &  & \textbf{-0.030} $\downarrow$ & \textbf{-0.007} $\uparrow$ & \textbf{-0.037} $\downarrow$ \\ 
+
+
+
+Average restoration for CodeXGLUE: 59.8
+Average fruther drops for CodeXGLUE: 35.7
+Average restoration for VulDeePecker: 54.1
+Average fruther drops for VulDeePecker: 97.4

@@ -1,0 +1,3 @@
+Average improvement for VulBERTa: 0.002
+Average improvement for CoTexT: -0.014
+Average improvement for PLBart: -0.000
