@@ -21,3 +21,5 @@ for technique in "${techniques[@]}"
 do
     ./scripts/CodeXGLUE/$technique/run_at.sh
 done
+
+./scripts/naturalness/run.sh
