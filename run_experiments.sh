@@ -22,4 +22,4 @@ do
     ./scripts/CodeXGLUE/$technique/run_at.sh
 done
 
-./scripts/naturalness/run.sh
+./additional_experiments/naturalness/run.sh
