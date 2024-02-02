@@ -58,11 +58,11 @@ conda activate LimitsOfMl4Vuln
 
 ### Step 3: Download the required datasets
 
-Go to [datasets/README.md](https://github.com/LimitsOfML4Vuln/ICSE2024/blob/main/datasets/README.md) and follow the instructions to download all datasets needed to run our experiments.
+Go to [datasets/README.md](https://github.com/niklasrisse/LimitsOfML4Vuln/tree/main/datasets/README.md) and follow the instructions to download all datasets needed to run our experiments.
 
 ### Step 4: Download the required models
 
-Go to [models/README.md](https://github.com/LimitsOfML4Vuln/ICSE2024/blob/main/models/README.md) and follow the instructions to download all models needed to run our experiments.
+Go to [models/README.md](https://github.com/niklasrisse/LimitsOfML4Vuln/tree/main/models/README.md) and follow the instructions to download all models needed to run our experiments.
 
 ### Step 5: Ready to go
 
